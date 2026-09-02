@@ -1,0 +1,19 @@
+{
+  "name": "deepfake_detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm start",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoundPrincek/DeepFake_Detection.git"
+  },
+  "author": "Black Bulls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoundPrincek/DeepFake_Detection/issues"
+  },
+  "homepage": "https://github.com/GoundPrincek/DeepFake_Detection#readme"
+}
